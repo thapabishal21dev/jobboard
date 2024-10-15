@@ -35,7 +35,6 @@ const Login = () => {
             <p>
               Don&apos;t have an account yet?
               <Link href="/register">
-                {" "}
                 <span className=" text-blue-500 cursor-pointer"> Sign up</span>
               </Link>
             </p>
